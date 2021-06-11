@@ -1,6 +1,6 @@
 # A Framework using Contrastive Learning for Classification with Noisy Labels
 
-This repository contains the pytorch implementation of the paper "A Framework using Contrastive Learning for Classification with Noisy Labels".   
+This repository contains the pytorch implementation of the paper "A Framework using Contrastive Learning for Classification with Noisy Labels" (MDPI publication https://www.mdpi.com/2306-5729/6/6/61 ).   
 
 
 A framework using contrastive learning as a pre-training task is proposed to perform classification in the presence of noisy labels. This paper provides an extensive empirical study showing that a preliminary contrastive learning step brings a significant gain in performance using various different loss functions: non robust, robust, and early-learning regularized losses. Several recent strategies boosting the performance of noisy-label models are also evaluated: pseudo-labelling, sample selection with Gaussian Mixture models, weighted supervised contrastive learning, and mixup with bootstrapping. The experiments are performed on standard benchmarks and real-world datasets and demonstrate that: i) the contrastive pre-training can increase robustness of any loss function to noisy labels and ii) the full framework with all recent strategies can achieve results close to the state of the art. 
