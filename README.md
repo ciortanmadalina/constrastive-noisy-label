@@ -51,3 +51,11 @@ All benckmarked datasets can be downloaded and preprocessed using the notebooks:
 - **notebooks/Webvision_data_preparation.ipynb** provides data download and the preprocessing needed to reproduce the results for Webvision dataset
 - **notebooks/Clothing1M_data_preparation.ipynb** provides data download and the preprocessing needed to reproduce the results for Clothing1M dataset
 
+
+# Video
+
+An overview of our method is presented in this video: https://www.youtube.com/watch?v=08LCrsZ_eww
+
+# Poster
+
+The poster presented at CAP can be found in CAP_poster_31_Ciortan_et_al.pdf
